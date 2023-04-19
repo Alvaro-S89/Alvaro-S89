@@ -54,8 +54,14 @@ In my work experience, I have learned to be careful and committed to my responsi
 
 
 </div>
-
-
+<div align="center">
+ <p>You are the visitor number</p>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Alvaro-S89/count.svg)
+  
+   <p>Thanks for visiting   💫<br>See you soon!</p>
+  
+</div>
 
 
 <!--
