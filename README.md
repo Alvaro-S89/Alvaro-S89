@@ -5,7 +5,7 @@ In my work experience, I have learned to be careful and committed to my responsi
 
 ## Languages and Tools
 
-<p align="left"> 
+<div align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -38,7 +38,7 @@ In my work experience, I have learned to be careful and committed to my responsi
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="70" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  </p>
+  </div>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-S89&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
